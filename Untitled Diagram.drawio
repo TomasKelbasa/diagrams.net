@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T13:59:55.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5WvG_K4znjvp25b3_c21" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T14:00:05.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1PoVGqHqPHdEASHTbGbN" version="20.4.0" type="github">
   <diagram id="LF57swdKAe3pEgYGpnAl" name="Page-1">
-    <mxGraphModel dx="2245" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,7 +297,7 @@
         </mxCell>
         <mxCell id="eNjjN9cBR6RN_niAsHTm-134" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eNjjN9cBR6RN_niAsHTm-130">
           <mxGeometry x="0.8084" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eNjjN9cBR6RN_niAsHTm-90" value="Itineráře" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=3;align=center;resizeLast=1;" vertex="1" parent="1">
